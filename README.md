@@ -16,5 +16,9 @@ This application was developed using Java Swing for front-end GUI components and
 
 
 # Features
-
-Personal user profile creation
+Working server that supports multithreading 
+Personal user profile creation and proof of identity
+Ability to list a property with information and photographs
+Ability to search for properties by location
+Ability to rent a property
+Randomization of property listings
