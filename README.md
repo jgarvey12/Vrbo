@@ -9,11 +9,12 @@ This is our desktop application version of the vacation home rental site, Vrbo. 
 
 # Development
 Vrbo design created using Figma (https://www.figma.com/file/7atIBtUKKskPc6s52h66dT/VRBO-Design?node-id=0%3A1) 
+
 Vrbo application developed using Eclipse IDE
+
 Project task assignment and tracking using Trello
 
 This application was developed using Java Swing for front-end GUI components and Java. 
-
 
 # Features
 Working server that supports multithreading 
